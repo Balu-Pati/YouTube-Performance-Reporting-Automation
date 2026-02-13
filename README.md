@@ -1,5 +1,7 @@
 # YouTube Performance-Reporting Automation
 
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/BI%20Dashboard.png?raw=true)
+
 ## Project Overview
 This project builds an automated reporting solution to analyze YouTube video performance and audience engagement using SQL and Power BI.
 The solution integrates raw video and comment data, performs data validation, and delivers automated dashboards for monitoring performance trends and engagement metrics.
@@ -41,16 +43,18 @@ Contains:
 
 ## Project Workflow
 Raw CSV Files
-↓
+→
 MySQL Database Integration
-↓
+→
 Data Cleaning & Validation
-↓
+→
 SQL Reporting Views
-↓
+→
 Power BI Dashboards
-↓
+→
 Automated Reporting
+
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Project_Workflow.png?raw=true)
 
 ---
 
@@ -99,11 +103,15 @@ Dashboards refresh automatically when database updates occur, eliminating manual
 
 Workflow: New Data → Database Update → Views Refresh → Dashboard Update
 
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Workflow.png?raw=true)
+
 ## Tools & Technologies
 - MySQL
 - Power BI
 - SQL
 - Excel (data preprocessing)
+
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Tools&Technologies.png?raw=true)
 
 ---
 
