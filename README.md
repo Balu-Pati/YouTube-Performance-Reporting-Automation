@@ -54,6 +54,8 @@ Power BI Dashboards
 ↓
 Automated Reporting
 
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Project_Workflow.png?raw=true)
+
 ---
 
 ## Database Layer
@@ -101,11 +103,15 @@ Dashboards refresh automatically when database updates occur, eliminating manual
 
 Workflow: New Data → Database Update → Views Refresh → Dashboard Update
 
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Workflow.png?raw=true)
+
 ## Tools & Technologies
 - MySQL
 - Power BI
 - SQL
 - Excel (data preprocessing)
+
+![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Tools&Technologies.png?raw=true)
 
 ---
 
