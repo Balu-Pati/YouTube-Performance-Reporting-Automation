@@ -43,15 +43,15 @@ Contains:
 
 ## Project Workflow
 Raw CSV Files
-↓
+→
 MySQL Database Integration
-↓
+→
 Data Cleaning & Validation
-↓
+→
 SQL Reporting Views
-↓
+→
 Power BI Dashboards
-↓
+→
 Automated Reporting
 
 ![image alt](https://github.com/Balu-Pati/YouTube-Performance-Reporting-Automation/blob/main/Images/Project_Workflow.png?raw=true)
